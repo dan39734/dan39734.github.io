@@ -1,8 +1,13 @@
-[{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "io.github.dan39734.sfidadelgiorno",
-        "sha256_cert_fingerprints": ["17:57:F3:93:82:F8:1F:24:57:0E:08:8D:0A:74:E4:C7:4D:31:EA:B8:5E:1F:CD:06:FF:61:9A:17:0C:F5:B0:3D"]
-      }
-    }]
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.dan39734.sfidadelgiorno",
+      "sha256_cert_fingerprints": [
+        "17:57:F3:93:82:F8:1F:24:57:0E:08:8D:0A:74:E4:C7:4D:31:EA:B8:5E:1F:CD:06:FF:61:9A:17:0C:F5:B0:3D",
+        "32:AC:C8:DC:09:DE:28:64:A3:96:E9:4E:2A:1A:BF:99:08:1A:44:71:C6:CC:0F:92:0F:3E:90:F3:1E:D9:21:3A"
+      ]
+    }
+  }
+]
