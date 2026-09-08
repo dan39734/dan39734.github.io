@@ -9,5 +9,15 @@
         "32:AC:C8:DC:09:DE:28:64:A3:96:E9:4E:2A:1A:BF:99:08:1A:44:71:C6:CC:0F:92:0F:3E:90:F3:1E:D9:21:3A"
       ]
     }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.dan39734.parola",
+      "sha256_cert_fingerprints": [
+        "44:A4:73:41:91:D0:07:C3:AE:D2:42:D8:8C:16:A0:46:4B:11:89:D9:49:66:54:43:D8:82:53:B1:2A:8E:D2:5D"
+      ]
+    }
   }
 ]
